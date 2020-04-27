@@ -1,4 +1,4 @@
-module github.com/Allenxuxu/protoc-gen-micro
+module github.com/Allenxuxu/protoc-gen-mMicro
 
 go 1.13
 

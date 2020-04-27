@@ -52,8 +52,8 @@ import (
 	"io/ioutil"
 	"os"
 
-	"github.com/Allenxuxu/protoc-gen-micro/generator"
-	_ "github.com/Allenxuxu/protoc-gen-micro/plugin/micro"
+	"github.com/Allenxuxu/protoc-gen-mMicro/generator"
+	_ "github.com/Allenxuxu/protoc-gen-mMicro/plugin/micro"
 	"github.com/golang/protobuf/proto"
 )
 
